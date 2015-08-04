@@ -1,13 +1,14 @@
 {
-	"_id": "55c00f7b9fc7a6017ffa2ed7",
+	"_id": "55c00c059fc7a6017ffa2ec7",
 	"ownerId": "",
 	"name": "Default",
-	"requestDate": "2015-08-04T01:03:55.783Z",
+	"application": "",
+	"requestDate": "2015-08-04T00:49:09.546Z",
 	"visibility": "visible",
-	"application": "Demo",
+	"platform": "mobile",
 	"versioning": {
 		"status": "committed",
 		"user": "https://marketplace.ibmcloud.com/openid/id/540ddd4b-5f1d-4afc-b1a9-d895636b711e",
-		"last_action": "1438650236"
+		"last_action": "1438651020"
 	}
 }
