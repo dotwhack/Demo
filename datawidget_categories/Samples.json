@@ -1,0 +1,14 @@
+{
+	"_id": "55c00fa59fc7a6017ffa2eda",
+	"ownerId": "",
+	"name": "Samples",
+	"requestDate": "2015-08-04T01:04:37.506Z",
+	"visibility": "visible",
+	"application": "Demo",
+	"versioning": {
+		"status": "committed",
+		"user": "https://marketplace.ibmcloud.com/openid/id/540ddd4b-5f1d-4afc-b1a9-d895636b711e",
+		"last_action": "1438650278"
+	},
+	"platform": "web"
+}
