@@ -1,0 +1,72 @@
+{
+	"_id": "55c00f7a9fc7a6017ffa2ed3",
+	"name": "Demo",
+	"ownerId": "dotwhack",
+	"requestDate": "",
+	"title": "Demo",
+	"applicationContext": [
+		{
+			"properties": [
+				{
+					"possibleValues": [],
+					"name": "selectedItem",
+					"value": ""
+				}
+			],
+			"object": "menu"
+		}
+	],
+	"github": {
+		"token": "",
+		"username": "",
+		"repository": ""
+	},
+	"phonegap": {
+		"token": "",
+		"applicationId": ""
+	},
+	"requiredLibraries": [],
+	"requiredStylesheets": [
+		{
+			"name": "_gc"
+		},
+		{
+			"name": "_ext"
+		}
+	],
+	"screenflow": [
+		{
+			"name": "Guest",
+			"left": "85",
+			"connections": [
+				{
+					"assertions": [],
+					"name": "Home"
+				}
+			],
+			"type": "http_guest",
+			"top": "150"
+		},
+		{
+			"name": "Home",
+			"left": "330",
+			"connections": [],
+			"type": "screen",
+			"top": "165"
+		}
+	],
+	"start": "Home",
+	"visibility": "visible",
+	"creationDate": "2015-08-04T01:03:54.354Z",
+	"active": true,
+	"version": "1.0",
+	"platform": "web",
+	"personalization": {
+		"template": "Standard"
+	},
+	"versioning": {
+		"status": "committed",
+		"user": "https://marketplace.ibmcloud.com/openid/id/540ddd4b-5f1d-4afc-b1a9-d895636b711e",
+		"last_action": "1438652076"
+	}
+}
