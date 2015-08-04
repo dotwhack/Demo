@@ -1,0 +1,32 @@
+{
+	"_id": "55c00f7b9fc7a6017ffa2ed8",
+	"title": "Home",
+	"name": "Home",
+	"requestDate": "2015-08-04T01:07:19.676Z",
+	"ownerId": "",
+	"application": "Demo",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "whello",
+								"id": "94720"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": "Default"
+}
